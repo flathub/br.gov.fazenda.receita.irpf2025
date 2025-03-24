@@ -80,9 +80,9 @@
 
   - type: extra-data
     filename: ECA.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/ECA__20250228_20250311144058.zip
-    size: 54872
-    sha256: ef72dfd8236eb7683f6920a60f397ced480f6429654a41132c84344fcdd7f72f
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/ECA__20250321_20250324143032.zip
+    size: 63964
+    sha256: bc3289e5a9d888c75c2fa3110656c0410b5d10d21baabacc192ef6b89203b21e
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
@@ -91,9 +91,9 @@
 
   - type: extra-data
     filename: IDOSO.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/IDOSO__20250228_20250311144058.zip
-    size: 32029
-    sha256: 15e699d9351cf26f2e47c3cc308493ccc95db2b203ed75354096b8d39182a07e
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/IDOSO__20250321_20250324143032.zip
+    size: 33114
+    sha256: 26e9850904b8e8a3811e52506df09cff0766748ab0ef0898c1568cc7584fb5f9
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
@@ -102,9 +102,9 @@
 
   - type: extra-data
     filename: LINKS.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/LINKS__20250319_20250320021533.zip
-    size: 4266
-    sha256: f61b0884b0158c59484badca3c9a9b4196c6f48dc4e510c70ab7e2cf900c20b5
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/LINKS__20250324_20250324143032.zip
+    size: 4269
+    sha256: bd534be4bbce458d14300190df066b8d802931e6f365b825829e0f831b61ddba
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
