@@ -69,9 +69,9 @@ modules:
         path: icon-256.png
       - type: extra-data
         filename: irpf.zip
-        url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/arquivos/IRPF2025-1.1.zip
-        sha256: 96a8d966780355ed33246c6d06bd14597a83a9b040b0fca5600ec2d581c8e53b
-        size: 50626672
+        url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/arquivos/IRPF2025-1.2.zip
+        sha256: bb90868f099200a350ad29b09d967cfd33782b1c087859fe5be7029a7e59b08a
+        size: 50626655
         x-checker-data:
           type: html
           url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
