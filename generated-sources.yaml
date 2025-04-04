@@ -113,9 +113,9 @@
 
   - type: extra-data
     filename: MSGS.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MSGS__20250317_20250317021516.zip
-    size: 2568
-    sha256: 77f506d61d765749212a8cd57bc88fddda7169be33f7c8d499485e243ddfb886
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MSGS__20250404_20250404021642.zip
+    size: 2626
+    sha256: 5454652b7ea920b9d144bac7293b28a2d8b6e16ec7664347fd0a9d395392153f
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
