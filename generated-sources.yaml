@@ -134,6 +134,303 @@
       url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNCL__$version.zip
 
   - type: extra-data
+    filename: MUNICIPIOS_AC.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_AC__20250822_20250822145254.zip
+    size: 582
+    sha256: f732f6638b712752b7eeb914ea2d3c2abd032b619a7982554ced8bae6296c3f1
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_AC__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_AC__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_AL.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_AL__20250822_20250822145254.zip
+    size: 1382
+    sha256: 6d18f65e3df353000329eba48923e3cfcc7ee3123f117e9ac47232fad3d03b39
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_AL__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_AL__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_AM.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_AM__20250822_20250822145254.zip
+    size: 926
+    sha256: 9e5a0f88e65458ee6f2032473c19c2875171acfe41c1f3b126e3aacbd4ab9e2e
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_AM__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_AM__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_AP.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_AP__20250822_20250822145254.zip
+    size: 500
+    sha256: b2bbde95e51c5071f58fa53e719ea068ee84007117304bba4c286a33d5a3300d
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_AP__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_AP__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_BA.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_BA__20250822_20250822145254.zip
+    size: 4000
+    sha256: 7f0a74018ade43e76bd140e4f07441472f7bc4b95b269ae6798339e9be4b2db6
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_BA__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_BA__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_CE.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_CE__20250822_20250822145254.zip
+    size: 1876
+    sha256: 5710f7a9ea31873fd9d0762cb432db7db5116ac1a3e74c149befe4353bb5e671
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_CE__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_CE__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_DF.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_DF__20250822_20250822145254.zip
+    size: 326
+    sha256: 719d7f41ae257603a5c43efd6a2cf1403371f660ca9f376b527befae899e3749
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_DF__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_DF__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_ES.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_ES__20250822_20250822145254.zip
+    size: 1170
+    sha256: 18be14ed1a32ae28b5009b31b6799cc08d8a7862df574de8ba0ea38ba1fc3d07
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_ES__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_ES__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_GO.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_GO__20250822_20250822145254.zip
+    size: 2474
+    sha256: 3704ba84a0703e45690d588fe0d8a281470fbbb3257a1930846d70d8fd0c8638
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_GO__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_GO__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_MA.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_MA__20250822_20250822145254.zip
+    size: 2512
+    sha256: 28f56413f19507d87adca627ecb9b3b9e03ccf58c406f2ae966c2aeafad767f7
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_MA__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_MA__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_MG.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_MG__20250822_20250822145254.zip
+    size: 7726
+    sha256: 0490c42b78fd6d88bc672da903f6f43a8c5547998aefff3e3229690458287a43
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_MG__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_MG__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_MS.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_MS__20250822_20250822145254.zip
+    size: 1121
+    sha256: fd2f206ba34519c8a3823f3a4a1affbcce1ebfc9a181dd3514872f19ebd06b88
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_MS__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_MS__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_MT.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_MT__20250822_20250822145254.zip
+    size: 1792
+    sha256: 3c1c5f2e0f9422236d58d5798ccfca2dc96f9f99d0571a4d3505ce550f4369a0
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_MT__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_MT__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_PA.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_PA__20250822_20250822145254.zip
+    size: 1707
+    sha256: 9b029f9ea6cb0d3f4564ce8209160233718d105471378c920ea37dca8bbad3d5
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_PA__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_PA__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_PB.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_PB__20250822_20250822145254.zip
+    size: 2353
+    sha256: c401656ec156b85006f65eadc729f43c21ba618820aee82697a76b9bfe91591f
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_PB__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_PB__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_PE.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_PE__20250822_20250822145254.zip
+    size: 1994
+    sha256: 5b12d2d1504567797560fb1eb593e6011a3ff072265544758ea1cc8efa5b3ab9
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_PE__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_PE__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_PI.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_PI__20250822_20250822145254.zip
+    size: 2563
+    sha256: 5d0ad7fa8ad3a8ecfdadaf64f2daf20cbb92f0171167e57783e932383c73c7e5
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_PI__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_PI__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_PR.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_PR__20250822_20250822145254.zip
+    size: 3945
+    sha256: f2f9e949003b4fae6f3e31547491a89253f0587c0dc26cb9c02e4a9c409df475
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_PR__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_PR__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_RJ.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_RJ__20250822_20250822145254.zip
+    size: 1309
+    sha256: 2865530f5ac55c28743e586afef98046a197d20d1cbdd58f23c6bd69edcac575
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_RJ__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_RJ__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_RN.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_RN__20250822_20250822145254.zip
+    size: 1962
+    sha256: 553361739144851151c6d6597e6fd13da78ad46c9755d402c45fd5abe1fdb063
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_RN__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_RN__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_RO.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_RO__20250823_20250823072420.zip
+    size: 926
+    sha256: c425a4b6c3a22b963f62e280c6aef8f5f030730fc22fc560ee7e38b0ac4dca1c
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_RO__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_RO__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_RR.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_RR__20250822_20250822145254.zip
+    size: 478
+    sha256: 7bc34f5c49662ab24463ccb8c3b9d9008d47ae2b5ea3977e612ca08e196cdfc0
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_RR__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_RR__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_RS.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_RS__20250822_20250822145254.zip
+    size: 4903
+    sha256: bf439e25c361fa780905a4d1207a63f69bbbf6469000224e3b0a15fd2b1af577
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_RS__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_RS__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_SC.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_SC__20250822_20250822145254.zip
+    size: 3085
+    sha256: 7eff16858502b6f9a5696c343c75d418ea5a974f4e721f14b3bf4541c7efc849
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_SC__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_SC__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_SE.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_SE__20250822_20250822145254.zip
+    size: 1113
+    sha256: 7788db225ccd5b4f1ff3738734ab54f51e3dab61cbab32fba617d8b28066d227
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_SE__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_SE__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_SP.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_SP__20250822_20250822145254.zip
+    size: 5843
+    sha256: 86516481589c9a28df90770c9895c18576995e1a9ed9bac091152a3188394ae1
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_SP__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_SP__$version.zip
+
+  - type: extra-data
+    filename: MUNICIPIOS_TO.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_TO__20250822_20250822145254.zip
+    size: 1646
+    sha256: 752831f735b68e44372b5a634607811853265e3a749d0cfd337f6aff053952fe
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
+      version-pattern: MUNICIPIOS_TO__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_TO__$version.zip
+
+  - type: extra-data
     filename: NATOC.zip
     url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/NATOC__20221227_20230308072724.zip
     size: 1071
