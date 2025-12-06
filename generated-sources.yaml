@@ -410,9 +410,9 @@
 
   - type: extra-data
     filename: MUNICIPIOS_SP.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_SP__20250822_20250822145254.zip
-    size: 5843
-    sha256: 86516481589c9a28df90770c9895c18576995e1a9ed9bac091152a3188394ae1
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/MUNICIPIOS_SP__20251206_20251206021542.zip
+    size: 5844
+    sha256: f30d22554039bb86c3598bcf0f446fc05dd25e306a3ce73c83af705da6baf328
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2025/irpf/update/latest.xml
