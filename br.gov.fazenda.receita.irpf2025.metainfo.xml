@@ -13,8 +13,8 @@
   <summary xml:lang="pt_BR">Declare seu imposto de renda (Ano-calendário 2024)</summary>
   <description>
     <p>**NOTE: This wrapper is not verified by, affiliated with, or supported by any Brazilian government agency.**</p>
+    <p xml:lang="pt_BR">**AVISO: Este pacote não tem verificação, afiliação ou apoio do Serpro ou da Receita Federal.**</p>    
     <p>IRPF is an app officially distributed by the Special Department of Federal Revenue of Brazil, to help Brazilian citizens file their income tax return.</p>
-    <p xml:lang="pt_BR">**AVISO: Este pacote não tem verificação, afiliação ou apoio do Serpro ou da Receita Federal.**</p>
     <p xml:lang="pt_BR">Preenche as declarações de Ajuste Anual, Final de Espólio e Saída Definitiva do País 2025, referentes aos rendimentos recebidos durante o ano-calendário de 2024 e para efetuar todos os cálculos necessários à apuração do imposto.</p>
   </description>
   <url type="homepage">https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda</url>
