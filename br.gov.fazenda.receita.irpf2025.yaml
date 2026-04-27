@@ -61,7 +61,7 @@ modules:
       - type: script
         dest-filename: irpf2025
         commands:
-          - exec java -jar /app/extra/share/irpf.jar $@
+          - cd /app/extra/share && exec java -jar irpf.jar $@
       - type: file
         path: br.gov.fazenda.receita.irpf2025.metainfo.xml
       - type: file
